@@ -1,0 +1,127 @@
+site_name: Rene Peuser · Engineering Portfolio
+site_description: Principal Software Architect, Framework Engineer, SDK Author, Open-Source Maintainer, and Speaker
+site_url: https://renepeuser.github.io/who-am-i/
+repo_url: https://github.com/RenePeuser/who-am-i
+repo_name: RenePeuser/who-am-i
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - About:
+      - Executive profile: about/profile.md
+      - Engineering philosophy: about/engineering-philosophy.md
+      - Principles: about/principles.md
+      - Technical identity: about/technical-identity.md
+  - Career:
+      - Engineering journey: career/timeline.md
+      - Siemens: career/siemens.md
+      - SoftwareOne: career/softwareone.md
+      - TRUMPF: career/trumpf.md
+      - Earlier career: career/earlier-career.md
+  - Projects:
+      - Portfolio overview: projects/index.md
+      - Capability meta-framework: projects/capability-meta-framework.md
+      - Minimal API platform: projects/minimal-api-platform.md
+      - Testing SDK: projects/testing-sdk.md
+      - Validation engine: projects/validation-engine.md
+      - OpenAPI infrastructure: projects/openapi-infrastructure.md
+      - Error handling: projects/error-handling.md
+      - Deployment & provider model: projects/deployment-provider-model.md
+      - Developer experience: projects/developer-experience.md
+  - Architecture:
+      - Framework engineering: architecture/framework-engineering.md
+      - Testing is architecture: architecture/testing-is-architecture.md
+      - API design: architecture/api-design.md
+      - Performance: architecture/performance.md
+      - ADR index: architecture/adrs/index.md
+      - ADR 001 · Conditional validation: architecture/adrs/001-conditional-validation.md
+      - ADR 002 · Infra/backend validators: architecture/adrs/002-validator-sync-strategy.md
+  - Open Source:
+      - Overview: open-source/index.md
+      - NuGet portfolio: open-source/nuget.md
+      - GitHub & Azure DevOps: open-source/repositories.md
+  - Expertise:
+      - Technology map: expertise/technology-map.md
+      - .NET & C#: expertise/dotnet.md
+      - Cloud: expertise/cloud.md
+      - Testing: expertise/testing.md
+      - Roslyn & tooling: expertise/roslyn-tooling.md
+  - Speaking:
+      - BASTA!: talks/basta.md
+      - Speaker kit: talks/speaker-kit.md
+  - Resume:
+      - Short resume: resume/resume-short.md
+      - Full resume: resume/resume-full.md
+      - Project profile: resume/project-profile.md
+  - About this portfolio:
+      - Source policy: portfolio/source-policy.md
+      - Roadmap: portfolio/roadmap.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RenePeuser
+    - icon: simple/nuget
+      link: https://www.nuget.org/profiles/Rene.Peuser
+    - icon: fontawesome/solid/microphone
+      link: https://basta.net/speaker/rene-peuser/
+
+copyright: Copyright &copy; Rene Peuser
