@@ -16,6 +16,8 @@ timeline
     2026 : Capability meta-framework, Minimal API engine, OpenAPI and validation platforms
 ```
 
+The full personal project archive covering this period is documented in the [legacy project archive](legacy-projects.md) — 106 repos migrated from a local folder in October 2026, spanning VB6 HMIs from 1995 to WPF tooling from 2020, with original file timestamps preserved as commit dates.
+
 ## 1998–2007 · Industrial systems
 
 My engineering foundation was formed close to machines: industrial electronics, PLC programming, servo drives, process control, user interfaces, commissioning, troubleshooting, and customer training.
