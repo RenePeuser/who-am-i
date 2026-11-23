@@ -93,4 +93,4 @@ Nine public packages with more than 4.1 million cumulative downloads as of July 
 
 ## Speaking and training
 
-BASTA! conference speaker and participant across multiple years. Guest speaker at My Coding Zone (2026, "KI-Code kompiliert, aber hält er deine .NET-Regeln ein?"). Technical training in architecture, WPF/MVVM, clean code, SOLID, MediatR, testing, API development, and asynchronous programming.
+[BASTA!](https://basta.net/speaker/rene-peuser/) conference speaker and participant across multiple years. Guest speaker at [My Coding Zone](https://www.meetup.com/de-de/my-coding-zone/events/317174881/) (2026, "KI-Code kompiliert, aber hält er deine .NET-Regeln ein?"). Technical training in architecture, WPF/MVVM, clean code, SOLID, MediatR, testing, API development, and asynchronous programming.

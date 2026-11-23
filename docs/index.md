@@ -24,7 +24,7 @@
 
     ---
 
-    Speaker at BASTA! and My Coding Zone, and an experienced trainer for architecture, testing, WPF, MVVM, clean code, and modern .NET.
+    Speaker at [BASTA!](https://basta.net/speaker/rene-peuser/) and [My Coding Zone](https://www.meetup.com/de-de/my-coding-zone/events/317174881/), and an experienced trainer for architecture, testing, WPF, MVVM, clean code, and modern .NET.
 
 </div>
 
