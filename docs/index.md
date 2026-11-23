@@ -24,7 +24,7 @@
 
     ---
 
-    Speaker at BASTA! and an experienced trainer for architecture, testing, WPF, MVVM, clean code, and modern .NET.
+    Speaker at BASTA! and My Coding Zone, and an experienced trainer for architecture, testing, WPF, MVVM, clean code, and modern .NET.
 
 </div>
 

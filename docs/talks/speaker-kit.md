@@ -23,3 +23,4 @@ Rene Peuser began his career in industrial automation and machine commissioning 
 - GitHub: <https://github.com/RenePeuser>
 - NuGet: <https://www.nuget.org/profiles/Rene.Peuser>
 - BASTA!: <https://basta.net/speaker/rene-peuser/>
+- My Coding Zone: <https://www.meetup.com/de-de/my-coding-zone/events/317174881/>

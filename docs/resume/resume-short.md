@@ -17,7 +17,7 @@ Software architect and consultant with more than 20 years of professional experi
 - Created Minimal API, validation, OpenAPI, error-handling, and testing infrastructure.
 - Author and maintainer of nine public NuGet packages with more than 4.1 million cumulative downloads as of July 2026.
 - Creator of `AspNetCore.Simple.MsTest.Sdk`, exceeding 700,000 downloads by July 2026.
-- BASTA! conference speaker and experienced technical trainer.
+- BASTA! conference speaker, My Coding Zone guest speaker, and experienced technical trainer.
 - More than two decades across industrial automation, WPF, backend, cloud, platform, and framework engineering.
 
 ## Current role

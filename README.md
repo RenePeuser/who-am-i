@@ -52,7 +52,7 @@ Developer DX      ████████████████████
 | API platform | [Minimal API platform](docs/projects/minimal-api-platform.md) |
 | Testing | [AspNetCore.Simple.MsTest.Sdk](docs/projects/testing-sdk.md) |
 | Open source | [NuGet portfolio](docs/open-source/nuget.md) |
-| Speaking | [BASTA! speaker profile](docs/talks/basta.md) |
+| Speaking | [BASTA! speaker profile](docs/talks/basta.md) · [My Coding Zone](docs/talks/my-coding-zone.md) |
 | Resume | [Short resume](docs/resume/resume-short.md) |
 
 ## Public engineering impact
