@@ -89,7 +89,7 @@ My central strength is identifying repeated engineering patterns and converting 
 
 ## Open source
 
-Nine public packages with more than 4.1 million cumulative downloads as of July 2026. Key packages include `Argument.Check`, `Extensions.Pack`, `AspNetCore.Simple.MsTest.Sdk`, `AspNetCore.Simple.Sdk`, and `Solution.Parser`.
+Nine public packages with more than 4.5 million cumulative downloads as of November 2026. Key packages include `Argument.Check`, `Extensions.Pack`, `AspNetCore.Simple.MsTest.Sdk`, `AspNetCore.Simple.Sdk`, and `Solution.Parser`.
 
 ## Speaking and training
 

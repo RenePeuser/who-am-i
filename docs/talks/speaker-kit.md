@@ -6,7 +6,7 @@ Rene Peuser is a Principal Software Architect, framework engineer, open-source m
 
 ## Long bio
 
-Rene Peuser began his career in industrial automation and machine commissioning before moving into C#, WPF, MVVM, Visual Studio extensions, Roslyn, ASP.NET Core, and cloud platform engineering. Today he designs reusable frameworks and SDKs that standardize API infrastructure, testing, validation, OpenAPI, error handling, and multi-provider capability systems. His public NuGet portfolio has accumulated more than four million downloads.
+Rene Peuser began his career in industrial automation and machine commissioning before moving into C#, WPF, MVVM, Visual Studio extensions, Roslyn, ASP.NET Core, and cloud platform engineering. Today he designs reusable frameworks and SDKs that standardize API infrastructure, testing, validation, OpenAPI, error handling, and multi-provider capability systems. His public NuGet portfolio has accumulated more than 4.5 million downloads.
 
 ## Suggested topics
 

@@ -15,8 +15,8 @@ Software architect and consultant with more than 20 years of professional experi
 - Designed reusable backend foundations for a large enterprise cloud and AI platform.
 - Built and evolved a metadata-driven capability meta-framework.
 - Created Minimal API, validation, OpenAPI, error-handling, and testing infrastructure.
-- Author and maintainer of nine public NuGet packages with more than 4.1 million cumulative downloads as of July 2026.
-- Creator of `AspNetCore.Simple.MsTest.Sdk`, exceeding 700,000 downloads by July 2026.
+- Author and maintainer of nine public NuGet packages with more than 4.5 million cumulative downloads as of November 2026.
+- Creator of `AspNetCore.Simple.MsTest.Sdk`, exceeding 780,000 downloads by November 2026.
 - [BASTA!](https://basta.net/speaker/rene-peuser/) conference speaker, [My Coding Zone](https://www.meetup.com/de-de/my-coding-zone/events/317174881/) guest speaker, and experienced technical trainer.
 - More than two decades across industrial automation, WPF, backend, cloud, platform, and framework engineering.
 

@@ -1,20 +1,20 @@
 # NuGet portfolio
 
-As of **11 July 2026**, the public `Rene.Peuser` NuGet profile lists **9 packages** and approximately **4.15 million cumulative downloads**.
+As of **23 November 2026**, the public `Rene.Peuser` NuGet profile lists **9 packages** and approximately **4.6 million cumulative downloads**. Live figures: [renepeuser.github.io/open-source/nuget](https://renepeuser.github.io/open-source/nuget/)
 
 [Open the live NuGet profile](https://www.nuget.org/profiles/Rene.Peuser)
 
-| Package | Focus | Approx. downloads in July 2026 |
+| Package | Focus | Approx. downloads in November 2026 |
 |---|---|---:|
-| Argument.Check | Fluent guard and argument validation | 1.12M |
-| Extensions.Pack | General-purpose extension methods | 776K |
-| AspNetCore.Simple.MsTest.Sdk | ASP.NET Core integration and regression testing | 717K |
-| AspNetCore.Simple.Sdk | ASP.NET Core application foundation | 502K |
-| Solution.Parser | Roslyn-based solution and syntax abstraction | 443K |
-| FileSystem.Abstraction | File and directory abstractions | 300K |
-| DotNetTool.Service | Programmatic use of `dotnet tool` workflows | 165K |
-| DotNetTool.Builder | Building .NET global tools | 122K |
-| CSharp.Parser.Abstraction | Earlier C# parsing abstraction | 1.7K |
+| Argument.Check | Fluent guard and argument validation | 1.27M |
+| Extensions.Pack | General-purpose extension methods | 848K |
+| AspNetCore.Simple.MsTest.Sdk | ASP.NET Core integration and regression testing | 782K |
+| AspNetCore.Simple.Sdk | ASP.NET Core application foundation | 516K |
+| Solution.Parser | Roslyn-based solution and syntax abstraction | 493K |
+| FileSystem.Abstraction | File and directory abstractions | 348K |
+| DotNetTool.Service | Programmatic use of `dotnet tool` workflows | 213K |
+| DotNetTool.Builder | Building .NET global tools | 124K |
+| CSharp.Parser.Abstraction | Earlier C# parsing abstraction | 1.9K |
 
 !!! note
     Download figures are snapshots and will become outdated. The NuGet profile is the source of truth.

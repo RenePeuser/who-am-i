@@ -49,4 +49,4 @@ Centralizing this flow improves consistency, readability, and failure analysis.
 
 ## Public impact
 
-As of July 2026, the NuGet package has exceeded 700,000 cumulative downloads. Package statistics change continuously; use the live NuGet page for current figures.
+As of November 2026, the NuGet package has exceeded 780,000 cumulative downloads. Package statistics change continuously; use the live NuGet page for current figures.

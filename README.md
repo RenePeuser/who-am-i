@@ -57,7 +57,7 @@ Developer DX      ████████████████████
 
 ## Public engineering impact
 
-As of July 2026, my public NuGet profile lists **9 packages** with more than **4.1 million cumulative downloads**. `AspNetCore.Simple.MsTest.Sdk` alone has exceeded **700,000 downloads**.
+As of November 2026, my public NuGet profile lists **9 packages** with more than **4.5 million cumulative downloads**. `AspNetCore.Simple.MsTest.Sdk` alone has exceeded **780,000 downloads**. Live figures: [renepeuser.github.io/open-source/nuget](https://renepeuser.github.io/open-source/nuget/)
 
 > Download counts are time-sensitive. The documentation intentionally links to the live NuGet profile as the source of truth.
 

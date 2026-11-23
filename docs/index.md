@@ -18,7 +18,7 @@
 
     ---
 
-    Nine packages and more than 4.1 million cumulative downloads on the public NuGet profile as of July 2026.
+    Nine packages and more than 4.5 million cumulative downloads on the public NuGet profile as of November 2026.
 
 -   :material-presentation:{ .lg .middle } **Conference Speaker**
 
